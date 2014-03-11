@@ -24,11 +24,7 @@ The next line has an integer Q, the number of groups.
 Each of the following Q lines has information of a group of aliens.
 The first integer is K, the number of aliens in that group, followed by K integers in the same line,
 the integer visiting times t of the aliens.
-1 ≤ N ≤ 100000 (105)
-1 ≤ Q ≤ 5000 (5 · 103)
-1 ≤ K ≤ 20
-1 ≤ Si, Ei, t ≤ 1000000000 (109)
-Si < Ei
+
 Output
 
 For each of the Q groups, output the number of different recipes that group of aliens can learn by watching the downloaded videos.
